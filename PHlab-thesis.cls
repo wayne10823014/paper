@@ -65,7 +65,7 @@
 \newcommand*\退[1]{\hspace{-#1pt}}% Useful to manually adjust space between characters
 
 
-\newcommand*\學位{\ifdef{\PhD}{博士}{碩士}}
+\newcommand*\學位{\ifdef{\PhD}{碩士}{碩士}}
 
 \newcommand*\University中文{國立成功大學}
 \newcommand*\University英文{National Cheng Kung University}
